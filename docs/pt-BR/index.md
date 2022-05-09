@@ -72,7 +72,7 @@ Entre na sua conta e siga com a configuração...
    1. Se possível, deixe pelo menos 4096 (4GB x 1024), para minecraft vanilla é o suficiente;
 3. Agora clique em `Reter`.
 
-## Instalando o Optifine
+## Instalando o OptiFine
 
 O Launcher te permite 5 variantes das versões mais recentes/famosas:
 
@@ -116,9 +116,9 @@ Aparecerá um menu como esse:
 
 ![Minecraft video settings](../assets/minecraft-video-settings.png)
 
-**Graphics**: só deixe no _Fast_ se realmente estiver lento
-**Smooth Lighting**: só deixe no _OFF_ se realmente fizer diferença
-**Render distance**: essa opção é a mais pesada, depende tanto da CPU como de GPU, começa em `8`, no meu caso `16` foi a que funcionou melhor para mim, após esse valor do preset, começa a ter travamentos e quedas altas de FPS.
+- **Graphics**: só deixe no _Fast_ se realmente estiver lento
+- **Smooth Lighting**: só deixe no _OFF_ se realmente fizer diferença
+- **Render distance**: essa opção é a mais pesada, depende tanto da CPU como de GPU, começa em `8`, no meu caso `16` foi a que funcionou melhor para mim, após esse valor do preset, começa a ter travamentos e quedas altas de FPS.
 
 ### Agora a cereja do bolo
 
@@ -135,11 +135,11 @@ Vale lembrar que shaders atrapalham na performance, mas melhoram muito a qualida
 
 O download geralmente fica perto do final da página, sempre pegue a versão _Lite_ para ter um melhor desempenho.
 
-|                  Name                   |                                                   Link                                                   |
+|                  Nome                   |                                                   Link                                                   |
 | :-------------------------------------: | :------------------------------------------------------------------------------------------------------: |
-|      Lagless shaders (Recommended)      | _<https://www.9minecraft.net/lagless-shaders-mod/>_<br>_<https://minecraftred.com/lagless-shaders-mod/>_ |
+|      Lagless shaders (Recomendado)      | _<https://www.9minecraft.net/lagless-shaders-mod/>_<br>_<https://minecraftred.com/lagless-shaders-mod/>_ |
 | SFLP Shaders (Shaders for Low End PC’s) |         _<https://www.9minecraft.net/sflp-shaders/>_<br>_<https://wminecraft.net/sflp-shaders/>_         |
-|         "Lagless" shaders list          |                          _<https://shadersmods.com/category/lagless-shaders/>_                           |
+|       Lista de shaders "Lagless"        |                          _<https://shadersmods.com/category/lagless-shaders/>_                           |
 
 ### Comparando _sem vs. com_ _shaders_
 
