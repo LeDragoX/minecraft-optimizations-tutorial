@@ -1,8 +1,6 @@
+# Melhores configurações para Minecraft Java + Shaders Lagless
+
 [Voltar](../index.md)
-
-# Tutorial (:brazil: Português Brasileiro 🇧🇷)
-
-## Melhores configurações para Minecraft Java + Shaders Lagless
 
 Eu me senti inspirado a criar esse tutorial, pois alguns dos meus amigos passam por problemas de FPS ao jogar o jogo, mesmo com um PC _mid/high end_ (Roda muito jogo AAA, mas não roda mine direito??? Sem sentido)
 
@@ -10,26 +8,14 @@ Eu me senti inspirado a criar esse tutorial, pois alguns dos meus amigos passam 
 
 - **Link**: _<https://github.com/LeDragoX/Win-10-Smart-Debloat-Tools>_
 
-### Java JRE para o Launcher (x86/x64)
-
-<details>
-  <summary>Clique para mais detalhes...</summary>
-
-#### Siga os passos
+## Java JRE para o Launcher (x86/x64)
 
 1. **Oracle Java JRE**: _<https://www.java.com/pt-BR/download/manual.jsp>_
 2. **Selecione a opção**: _"Windows Off-line (64 bits)" ou "Windows Off-line" caso dê erro_
 
-</details>
+## Java JDK para o jogo
 
-### Java JDK para o jogo
-
-#### Usando o _JDK da Oracle (x64 somente)_
-
-<details>
-  <summary>Clique para mais detalhes...</summary>
-
-#### Siga os passos
+### Usando o _JDK da Oracle (x64 somente)_
 
 - **Link**: _<https://www.oracle.com/java/technologies/downloads/>_ (Última versão sempre)
 
@@ -37,14 +23,7 @@ Eu me senti inspirado a criar esse tutorial, pois alguns dos meus amigos passam 
 2. Agora por "_Windows_" e "_x64 Installer_" em seguida;
 3. Baixe e instale essa versão.
 
-</details>
-
-#### Usando o _JDK da Adoptium_ (Open-source)
-
-<details>
-  <summary>Clique para mais detalhes...</summary>
-
-#### Siga os passos
+### Usando o _JDK da Adoptium_ (Open-source)
 
 - _<https://adoptium.net/temurin/releases>_ (Última versão sempre)
 
@@ -58,9 +37,7 @@ Na tabela, por cima, tem várias configurações, faça desse jeito:
 1. Agora que a tabela está menor, só pegar a mais recente na data e baixar o arquivo **.msi**;
 2. Instale o JDK.
 
-</details>
-
-### Launcher para o Minecraft
+## Launcher para o Minecraft
 
 > Serve tanto para versões "alternativas" quanto a original
 
@@ -70,12 +47,7 @@ Na tabela, por cima, tem várias configurações, faça desse jeito:
 
 Entre na sua conta e siga com a configuração...
 
-### Alterando o JDK do TLauncher (Opcional)
-
-<details>
-  <summary>Clique para mais detalhes...</summary>
-
-#### Siga os passos
+## Alterando o JDK do TLauncher (Opcional)
 
 1. Clique na `engrenagem` localizada no canto inferior direito > vá em `Configurações`;
    1. Agora se prepare para passar por uma localização errada e interface bugada;
@@ -92,14 +64,7 @@ Entre na sua conta e siga com a configuração...
 
 > Ainda não acabou, vá para a próxima etapa
 
-</details>
-
-### Configurações importantes do Launcher
-
-<details>
-  <summary>Clique para mais detalhes...</summary>
-
-#### Siga os passos
+## Configurações importantes do Launcher
 
 1. Clique na `engrenagem` localizada no canto inferior direito > vá em `Configurações`;
    1. Agora se prepare para passar por uma localização errada e interface bugada;
@@ -107,9 +72,7 @@ Entre na sua conta e siga com a configuração...
    1. Se possível, deixe pelo menos 4096 (4GB x 1024), para minecraft vanilla é o suficiente;
 3. Agora clique em `Reter`.
 
-</details>
-
-### Instalando o Optifine
+## Instalando o Optifine
 
 O Launcher te permite 4 variantes das versões mais recentes/famosas:
 
@@ -121,11 +84,6 @@ O Launcher te permite 4 variantes das versões mais recentes/famosas:
 
 > O problema é que o OptiFine costuma vir desatualizado, por isso escolha a versão Forge
 
-<details>
-  <summary>Clique para mais detalhes...</summary>
-
-#### Siga os passos
-
 Baixe o OptiFine direto do link oficial
 
 - Link: <https://optifine.net/downloads>
@@ -134,9 +92,7 @@ Dentre as versões do site, escolhe a versão que se encaixa com a que você que
 
 Agora é só salvar o arquivo `.jar` na pasta de mods do Minecraft.
 
-</details>
-
-#### Entrando na pasta de mods do minecraft
+### Entrando na pasta de mods do minecraft
 
 Para encontrar a pasta de mods rapidamente basta segurar e soltar as teclas `Windows + R`.
 
@@ -148,14 +104,9 @@ E então entre na pasta e coloque ali o arquivo `.jar` do OptiFine.
 
 _Seu minecraft agora está configurado para iniciar, não desanime, falta só a configuração dentro do jogo_.
 
-### Configurações gráficas
+## Configurações gráficas
 
 Abra o TLauncher e clique em `Entrar no jogo` para abrir o Minecraft.
-
-<details>
-  <summary>Clique para mais detalhes...</summary>
-
-#### Siga os passos
 
 Vá em `Options...` > `Video Settings...`
 
@@ -169,16 +120,14 @@ Aparecerá um menu como esse:
 **Smooth Lighting**: só deixe no _OFF_ se realmente fizer diferença
 **Render distance**: essa opção é a mais pesada, depende tanto da CPU como de GPU, começa em `8`, no meu caso `16` foi a que funcionou melhor para mim, após esse valor do preset, começa a ter travamentos e quedas altas de FPS.
 
-#### Agora a cereja do bolo
+### Agora a cereja do bolo
 
 Clique em `Performance...`.
 
 Deixe as opções como estão na imagem abaixo, deixando _OFF_ somente `Smooth FPS`, que por alguma razão diminui muito o FPS.
 ![OptiFine settings](../assets/optifine-performance-settings.png)
 
-</details>
-
-### Shaders que não fazem o PC explodir
+## Shaders que não fazem o PC explodir
 
 Vale lembrar que shaders atrapalham na performance, mas melhoram muito a qualidade visual do jogo, então use somente se quiser
 
@@ -192,7 +141,7 @@ O download geralmente fica perto do final da página, sempre pegue a versão _Li
 | SFLP Shaders (Shaders for Low End PC’s) |         <https://www.9minecraft.net/sflp-shaders><br><https://wminecraft.net/sflp-shaders>         |
 |         "Lagless" shaders list          |                         <https://shadersmods.com/category/lagless-shaders>                         |
 
-#### Comparando _sem vs. com_ _shaders_
+### Comparando _sem vs. com_ _shaders_
 
 **Antes**:
 
