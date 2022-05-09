@@ -6,11 +6,11 @@ Eu me senti inspirado a criar esse tutorial, pois alguns dos meus amigos passam 
 
 > ⚠️ **Aviso importante**: caso queira mais facilidade para a instalação do JRE e JDK, meu script para o Windows possui instalação de softwares com 1 clique (estilo Ninite, só que nativo do sistema)
 
-- **Link**: _<https://github.com/LeDragoX/Win-10-Smart-Debloat-Tools>_
+- **Link**: _<https://github.com/LeDragoX/Win-10-Smart-Debloat-Tools/>_
 
 ## Java JRE para o Launcher (x86/x64)
 
-1. **Oracle Java JRE**: _<https://www.java.com/pt-BR/download/manual.jsp>_
+1. **Oracle Java JRE**: _<https://www.java.com/pt-BR/download/manual.jsp/>_
 2. **Selecione a opção**: _"Windows Off-line (64 bits)" ou "Windows Off-line" caso dê erro_
 
 ## Java JDK para o jogo
@@ -25,7 +25,7 @@ Eu me senti inspirado a criar esse tutorial, pois alguns dos meus amigos passam 
 
 ### Usando o _JDK da Adoptium_ (Open-source)
 
-- _<https://adoptium.net/temurin/releases>_ (Última versão sempre)
+- _<https://adoptium.net/temurin/releases/>_ (Última versão sempre)
 
 Na tabela, por cima, tem várias configurações, faça desse jeito:
 
@@ -74,7 +74,7 @@ Entre na sua conta e siga com a configuração...
 
 ## Instalando o Optifine
 
-O Launcher te permite 4 variantes das versões mais recentes/famosas:
+O Launcher te permite 5 variantes das versões mais recentes/famosas:
 
 - Vanilla (sem mods);
 - OptiFine;
@@ -86,7 +86,7 @@ O Launcher te permite 4 variantes das versões mais recentes/famosas:
 
 Baixe o OptiFine direto do link oficial
 
-- Link: <https://optifine.net/downloads>
+- Link: _<https://optifine.net/downloads/>_
 
 Dentre as versões do site, escolhe a versão que se encaixa com a que você quer.
 
@@ -135,11 +135,11 @@ Vale lembrar que shaders atrapalham na performance, mas melhoram muito a qualida
 
 O download geralmente fica perto do final da página, sempre pegue a versão _Lite_ para ter um melhor desempenho.
 
-|                  Name                   |                                                Link                                                |
-| :-------------------------------------: | :------------------------------------------------------------------------------------------------: |
-|      Lagless shaders (Recommended)      | <https://www.9minecraft.net/lagless-shaders-mod><br><https://minecraftred.com/lagless-shaders-mod> |
-| SFLP Shaders (Shaders for Low End PC’s) |         <https://www.9minecraft.net/sflp-shaders><br><https://wminecraft.net/sflp-shaders>         |
-|         "Lagless" shaders list          |                         <https://shadersmods.com/category/lagless-shaders>                         |
+|                  Name                   |                                                   Link                                                   |
+| :-------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+|      Lagless shaders (Recommended)      | _<https://www.9minecraft.net/lagless-shaders-mod/>_<br>_<https://minecraftred.com/lagless-shaders-mod/>_ |
+| SFLP Shaders (Shaders for Low End PC’s) |         _<https://www.9minecraft.net/sflp-shaders/>_<br>_<https://wminecraft.net/sflp-shaders/>_         |
+|         "Lagless" shaders list          |                          _<https://shadersmods.com/category/lagless-shaders/>_                           |
 
 ### Comparando _sem vs. com_ _shaders_
 
