@@ -4,7 +4,7 @@
 
 Eu me senti inspirado a criar esse tutorial, pois alguns dos meus amigos passam por problemas de FPS ao jogar o jogo, mesmo com um PC _mid/high end_ (Roda muito jogo AAA, mas não roda mine direito??? Sem sentido)
 
-> ⚠️ **Aviso importante**: caso queira mais facilidade para a instalação do JRE e JDK, meu script para o Windows possuí instalação de softwares com 1 clique (estilo Ninite, só que mais simples)
+> ⚠️ **Aviso importante**: caso queira mais facilidade para a instalação do JRE e JDK, meu script para o Windows possui instalação de softwares com 1 clique (estilo Ninite, só que nativo do sistema)
 
 - **Link**: _<https://github.com/LeDragoX/Win-10-Smart-Debloat-Tools>_
 
